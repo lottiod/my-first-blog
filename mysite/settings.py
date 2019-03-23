@@ -25,7 +25,7 @@ SECRET_KEY = 't869p_wya#r&n6t(vfh4n*h4k%#lo-sk5pzo@5^&!r(g9!-hsm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lottod.pythonanywhere.com']
 
 
 # Application definition
